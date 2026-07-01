@@ -1064,3 +1064,12 @@ footer{
 }
 
 }
+
+/* Active Navigation */
+
+.nav-menu a.active{
+
+    color:#58a6ff;
+    font-weight:600;
+
+}
